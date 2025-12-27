@@ -1,7 +1,7 @@
 #EXTM3U
 
 # ====== NEWS ======
-#EXTINF:-1 tvg-id="news1" tvg-name="News Channel 1" group-title="News",News Channel 1
+#EXTINF:-1 tvg-id="news1" tvg-name="News Channel 1" group-title="News7294702847023984",News Channel 1
 http://example.com/streams/news1.m3u8
 
 #EXTINF:-1 tvg-id="news2" tvg-name="News Channel 2" group-title="News",News Channel 2
