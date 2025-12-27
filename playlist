@@ -1,6 +1,6 @@
 #EXTM3U
 
-# ====== SPORTS ======
+# ====== SPORTSChange ======
 #EXTINF:-1 tvg-id="sports1" tvg-name="Sports Channel 1" group-title="Sports",Sports Channel 1
 http://example.com/streams/sports1.m3u8
 
