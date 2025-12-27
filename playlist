@@ -1,0 +1,33 @@
+#EXTM3U
+
+# ====== SPORTS ======
+#EXTINF:-1 tvg-id="sports1" tvg-name="Sports Channel 1" group-title="Sports",Sports Channel 1
+http://example.com/streams/sports1.m3u8
+
+#EXTINF:-1 tvg-id="sports2" tvg-name="Sports Channel 2" group-title="Sports",Sports Channel 2
+http://example.com/streams/sports2.m3u8
+
+#EXTINF:-1 tvg-id="sports3" tvg-name="Sports Channel 3" group-title="Sports",Sports Channel 3
+http://example.com/streams/sports3.m3u8
+
+
+# ====== MOVIES ======
+#EXTINF:-1 tvg-id="movies1" tvg-name="Movie Channel 1" group-title="Movies",Movie Channel 1
+http://example.com/streams/movies1.m3u8
+
+#EXTINF:-1 tvg-id="movies2" tvg-name="Movie Channel 2" group-title="Movies",Movie Channel 2
+http://example.com/streams/movies2.m3u8
+
+#EXTINF:-1 tvg-id="movies3" tvg-name="Movie Channel 3" group-title="Movies",Movie Channel 3
+http://example.com/streams/movies3.m3u8
+
+
+# ====== TV ======
+#EXTINF:-1 tvg-id="tv1" tvg-name="TV Channel 1" group-title="TV",TV Channel 1
+http://example.com/streams/tv1.m3u8
+
+#EXTINF:-1 tvg-id="tv2" tvg-name="TV Channel 2" group-title="TV",TV Channel 2
+http://example.com/streams/tv2.m3u8
+
+#EXTINF:-1 tvg-id="tv3" tvg-name="TV Channel 3" group-title="TV",TV Channel 3
+http://example.com/streams/tv3.m3u8
